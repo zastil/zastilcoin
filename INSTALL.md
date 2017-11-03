@@ -1,4 +1,4 @@
-Building zastilcoin
+Building ZastilCoin
 ================
 
 See doc/build-*.md for instructions on building the various
